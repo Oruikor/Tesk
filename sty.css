@@ -208,15 +208,20 @@ input{
     .secondinput .main .pav input{
         width: 100%;
     }
-    .secondinput{
-        margin-top: 10px;
-        float: left;
-        text-align: left;
-        margin-left: 15px;
-    }
     .containe{
         margin-top: 10px;
         float: left;
+    }
+    .secondinput{
+        margin-top: 10px;
+        float: left;
+        margin-left: 15px;
+        width: 100%;
+        text-align: left;
+    }
+    .pav{
+        display: block;
+        margin-right: 15px;
     }
 }
 
