@@ -203,10 +203,20 @@ input{
         width: 100%;
     }
     .containe .main .outtermain .innermain  input{
-    
+        width: 100%;
     }
     .secondinput .main .pav input{
         width: 100%;
+    }
+    .secondinput{
+        margin-top: 10px;
+        float: left;
+        text-align: left;
+        margin-left: 15px;
+    }
+    .containe{
+        margin-top: 10px;
+        float: left;
     }
 }
 
