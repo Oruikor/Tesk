@@ -200,13 +200,13 @@ input{
 }
 @media (max-width: 480px){
     .containe .main .innermain  input{
-        width: 450px;
+        width: 100%;
     }
     .containe .main .outtermain .innermain  input{
-        width: 216px;
+        width: 100%;
     }
     .secondinput .main .pav input{
-        width: 376px;
+        width: 100%;
     }
 }
 
